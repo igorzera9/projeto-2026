@@ -6,6 +6,9 @@ header{
     background-color: rgb(39, 37, 37);
 }
 
-header div img{
-    width:300px;
+header div #imgvelhooeste{
+    width:30px;
+}
+.paragrafo{
+    text-align: center;
 }
